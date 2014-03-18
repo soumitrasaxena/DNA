@@ -1,1 +1,1 @@
-Terrain Generation in OpenGL using a Heightmap.
+Coding the structure of the DNA in OpenGL
